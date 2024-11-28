@@ -1,0 +1,3 @@
+D:\SP\lab4\demianenko-test\x64\Debug\gtest.pdb
+D:\SP\lab4\demianenko-test\x64\Debug\gtest_main.pdb
+D:\SP\lab4\demianenko-test\demianenko-test\x64\Debug\demianen.64D76F1C.Up2Date
